@@ -1,0 +1,2 @@
+# Enhanced-Breast-Cancer-Diagnosis-via-SVM-and-Image-Processing
+Our project enhances breast cancer diagnosis with a robust classification system using advanced image processing and SVM. Utilizing the BreaKHis dataset, we achieve high accuracy in distinguishing benign and malignant tissues across various magnifications, while reducing computational time, thus improving early detection and treatment efficiency.
